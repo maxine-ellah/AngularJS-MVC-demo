@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "angular": "^1.2.29"
+    "angular": "^1.2.29",
+    "dotenv": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
