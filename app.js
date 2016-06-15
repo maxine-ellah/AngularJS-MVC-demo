@@ -21,4 +21,5 @@ app.controller('TodoCtrl', function($scope) {
       $scope.newTodo = '';
     }
   }
+  console.log("$scope: ", $scope)
 });
